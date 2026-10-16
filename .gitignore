@@ -1,0 +1,5 @@
+*.pkl
+__pycache__
+Old_NotUseful
+.ipynb_checkpoints
+/*.ipynb
